@@ -1,8 +1,8 @@
-# 🔢 Level 1 – Task 1: Simple Calculator
+🔢 Level 1 – Task 1: Simple Calculator
 
 This project is part of my Python internship at **Codveda Technology**.
 
-## 💻 Description
+💻 Description
 
 This is a simple calculator built using Python that performs the four basic arithmetic operations:
 
@@ -11,28 +11,23 @@ This is a simple calculator built using Python that performs the four basic arit
 - ✖️ Multiplication  
 - ➗ Division (with zero-division error handling)
 
-## 🎯 Internship Task
+🎯 Internship Task
 
 - **Level 1 – Task 1: Simple Calculator**
 - From the official **Python Development Task List** by Codveda.
 
-## 🚀 Features
+🚀 Features
 
 - Modular functions for each operation  
 - User input for selecting operations  
-- Handles division by zero gracefully with error messages
+- Handles division by zero gracefully with error message
 
-## 📽️ Demo
-
-_Link to LinkedIn video explanation:_  
-[Paste your LinkedIn video link here once posted]
-
-## 🔗 About Codveda
+🔗 About Codveda
 
 [Codveda LinkedIn](https://www.linkedin.com/company/codveda-technologies/about/)  
 Website: [codveda.com](http://www.technofyz.com/)
 
-## 📩 Contact
+ 📩 Contact
 
 For queries, contact: **support@technofyz.com**
 
